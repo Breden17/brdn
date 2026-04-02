@@ -1,2 +1,2 @@
 Скачать BSIPO
-Relesases
+Releases
